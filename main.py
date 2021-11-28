@@ -4,7 +4,7 @@ import random
 
 token = 'OTE0NTExNjE4ODA3ODM2NzYy.YaOHUA.V5VmZaTXl7o5zwjbz56VEdpyALA'
 serverid = 906519670385958923
-rainbowrolename = ":🌉владелец "
+rainbowrolename = "владелец "
 delay = 60
 
 
